@@ -9,3 +9,4 @@ This is probably going to be a slow burning project that is front loaded with a 
 * [Build Your Own Database From Scratch in Go](https://build-your-own.org/database/)
 * [How Does a Database Work?](https://cstack.github.io/db_tutorial/)
 * [CMU Database Group](https://www.youtube.com/@CMUDatabaseGroup)
+* [Database Systems: The Complete Book](http://infolab.stanford.edu/~ullman/dscb.html#projects)
